@@ -11,6 +11,6 @@
 ### 9. type "pwd" set as currect working repository 
 ### 10. Then everytime when i want to enter PUI2018 folder, i can type "pui2018" as represent 
 picture 1
-![Alt text](PUI2018_yc3763/HW1_yc3763/Image/Screenshot.png)
+![Alt text](../HW1_yc3763/Image/Screenshot.png)
 picture 2
-![Alt text](PUI2018_yc3763/HW1_yc3763/Image/Screenshot1.png)
+![Alt text](../HW1_yc3763/Image/Screenshot1.png)
