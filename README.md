@@ -1,2 +1,2 @@
-# PUI2018_yc3763
-## This repository contains my homeworks 
+# This repo is for PUI for CUSP 2018
+
