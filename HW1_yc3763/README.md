@@ -10,6 +10,7 @@
 ### 8. type "source ~/.bashrc" to source the changes i just made 
 ### 9. type "pwd" set as currect working repository 
 ### 10. Then everytime when i want to enter PUI2018 folder, i can type "pui2018" as represent 
-
- ![Alt text](../HW1_yc3763/Image/PUI class 1.png)
- ![Alt text](../HW1_yc3763/Image/PUI class.png)
+picture 1
+![Alt text](../HW1_yc3763/Image/PUI class 1.png)
+picture 2
+![Alt text](../HW1_yc3763/Image/PUI class.png)
