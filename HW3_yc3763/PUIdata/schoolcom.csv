@@ -1,0 +1,5 @@
+{
+  "code" : "invalid_request",
+  "error" : true,
+  "message" : "Invalid Input: accessType"
+}
