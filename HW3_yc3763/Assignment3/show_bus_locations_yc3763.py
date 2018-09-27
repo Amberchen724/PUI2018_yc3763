@@ -14,9 +14,13 @@ dataDict = json.loads(data)
 variable1 = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 variable1 
 index = 0
+
+print ('Bus Line ' +  sys.argv[2])
+busnumber=0
+for k in variable1:
+    busnumber+=1 
+print ('Active Bus Line '+ str(busnumber))
 for k in variable1:
     k = k['MonitoredVehicleJourney']
-    index+=1 
+    index += 1 
     print ('Bus',index,'is at latitude',k['VehicleLocation']['Latitude'], 'Longitude', k['VehicleLocation']['Longitude'])
-
-
