@@ -3,7 +3,11 @@
 Correlation	|1, prenatal exposure to maternal tobacco smoking over 12wk | dichotomous| 1, DNA methylation| continuous | 0 | N/A| 	Will there be potential associations between exposure to maternal smoking leading and DNA-Methylation? | Maternal smoking and DNA-Methylation are not correlated | 0.05 | [Maternal Smoking during Pregnancy and DNA-Methylation in Children at Age 5.5 Years: Epigenome-Wide-Analysis in the European Childhood Obesity Project (CHOP)- Study(https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0155554&type=printable) |
   |||||||||
 
+<<<<<<< HEAD
 ![correlation plot from reference](correlation_screenshot.png)
+=======
+![correlation plot from reference](PUI2018_yc3763/HW6_yc3763/correlation_screenshot.png)
+>>>>>>> 1b71416ae41b2c245d5df1b78c15848f402b84fa
       
 
   
@@ -21,4 +25,7 @@ Logistic Regression	| 1,BMI,liver right lobe | Categorical | 1,diagnosed or not 
   |||||||||
 
 ![LR](lr.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1b71416ae41b2c245d5df1b78c15848f402b84fa
