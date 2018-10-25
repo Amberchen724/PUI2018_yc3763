@@ -1,0 +1,42 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area,Percent,Margin of Error
+0400000US36,36,New York,0400000US36,36,New York,New York,83.4,0.2
+0400000US36,36,New York,0500000US36001,36001,New York - Albany County,Albany County,84.3,1.9
+0400000US36,36,New York,0500000US36005,36005,New York - Bronx County,Bronx County,77.5,1.0
+0400000US36,36,New York,0500000US36007,36007,New York - Broome County,Broome County,80.9,2.0
+0400000US36,36,New York,0500000US36009,36009,New York - Cattaraugus County,Cattaraugus County,72.7,2.8
+0400000US36,36,New York,0500000US36011,36011,New York - Cayuga County,Cayuga County,78.8,3.3
+0400000US36,36,New York,0500000US36013,36013,New York - Chautauqua County,Chautauqua County,77.3,2.4
+0400000US36,36,New York,0500000US36015,36015,New York - Chemung County,Chemung County,83.8,2.8
+0400000US36,36,New York,0500000US36019,36019,New York - Clinton County,Clinton County,82.5,3.5
+0400000US36,36,New York,0500000US36027,36027,New York - Dutchess County,Dutchess County,89.0,1.4
+0400000US36,36,New York,0500000US36029,36029,New York - Erie County,Erie County,82.8,0.8
+0400000US36,36,New York,0500000US36045,36045,New York - Jefferson County,Jefferson County,85.3,3.1
+0400000US36,36,New York,0500000US36047,36047,New York - Kings County,Kings County,81.0,0.6
+0400000US36,36,New York,0500000US36051,36051,New York - Livingston County,Livingston County,86.9,2.7
+0400000US36,36,New York,0500000US36053,36053,New York - Madison County,Madison County,82.6,2.7
+0400000US36,36,New York,0500000US36055,36055,New York - Monroe County,Monroe County,84.5,1.1
+0400000US36,36,New York,0500000US36059,36059,New York - Nassau County,Nassau County,90.0,0.7
+0400000US36,36,New York,0500000US36061,36061,New York - New York County,New York County,85.7,0.8
+0400000US36,36,New York,0500000US36063,36063,New York - Niagara County,Niagara County,79.7,1.9
+0400000US36,36,New York,0500000US36065,36065,New York - Oneida County,Oneida County,81.2,1.8
+0400000US36,36,New York,0500000US36067,36067,New York - Onondaga County,Onondaga County,79.2,1.3
+0400000US36,36,New York,0500000US36069,36069,New York - Ontario County,Ontario County,84.7,2.6
+0400000US36,36,New York,0500000US36071,36071,New York - Orange County,Orange County,83.1,1.7
+0400000US36,36,New York,0500000US36075,36075,New York - Oswego County,Oswego County,86.6,2.5
+0400000US36,36,New York,0500000US36079,36079,New York - Putnam County,Putnam County,91.4,2.4
+0400000US36,36,New York,0500000US36081,36081,New York - Queens County,Queens County,84.3,0.7
+0400000US36,36,New York,0500000US36083,36083,New York - Rensselaer County,Rensselaer County,84.7,2.1
+0400000US36,36,New York,0500000US36085,36085,New York - Richmond County,Richmond County,80.4,1.5
+0400000US36,36,New York,0500000US36087,36087,New York - Rockland County,Rockland County,84.4,1.9
+0400000US36,36,New York,0500000US36089,36089,New York - St. Lawrence County,St. Lawrence County,82.6,2.4
+0400000US36,36,New York,0500000US36091,36091,New York - Saratoga County,Saratoga County,90.0,1.4
+0400000US36,36,New York,0500000US36093,36093,New York - Schenectady County,Schenectady County,88.1,1.8
+0400000US36,36,New York,0500000US36101,36101,New York - Steuben County,Steuben County,79.8,2.6
+0400000US36,36,New York,0500000US36103,36103,New York - Suffolk County,Suffolk County,86.8,0.9
+0400000US36,36,New York,0500000US36105,36105,New York - Sullivan County,Sullivan County,79.0,5.0
+0400000US36,36,New York,0500000US36109,36109,New York - Tompkins County,Tompkins County,84.5,3.1
+0400000US36,36,New York,0500000US36111,36111,New York - Ulster County,Ulster County,89.6,1.9
+0400000US36,36,New York,0500000US36113,36113,New York - Warren County,Warren County,83.6,2.9
+0400000US36,36,New York,0500000US36117,36117,New York - Wayne County,Wayne County,80.4,3.0
+0400000US36,36,New York,0500000US36119,36119,New York - Westchester County,Westchester County,85.7,1.0
