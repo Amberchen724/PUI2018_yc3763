@@ -2,7 +2,7 @@
 
 For this assignment, yc3763 chose to visualize the median family income for families in New York City with a choropleth. 
 
-![Alt text](../HW9_zem232/median_income_families_in_New_York_City.png)
+![Alt text](../HW8_yc3763/median_income_families_in_New_York_City.png)
 
 **Aesthetics**
 150% pleased with the aesthetics - I really like the chosen color scheme contrasted to the seaborn gray background.
